@@ -42,11 +42,18 @@ Le20250731 :
 - 9) First open of Startup.blend :
 
      lbl51752 Original Z-Anatomy v0.9.9.7.5 compatible with Blender v3.6 (important for SketchFab Blender plugin most recent compatibility)  (script KO).
+
+
      lbl51752 Original Z-Anatomy v0.9.9.7.5 compatible with Blender v4.0 (script KO).
+     
      lbl51752 Original Z-Anatomy v0.9.9.7.5 compatible with Blender v4.1 (script KO).
+     
      lbl51752 Original Z-Anatomy v0.9.9.7.5 compatible with Blender v4.2 (script KO).
+     
      lbl51752 Original Z-Anatomy v0.9.9.7.5 compatible with Blender v4.3 (script KO).
+     
      lbl51752 Original Z-Anatomy v0.9.9.7.5 compatible with Blender v4.4 (script KO).
+     
      lbl51752 Original Z-Anatomy v0.9.9.7.5 incompatible with Blender v4.5 (script KO).
      
      
